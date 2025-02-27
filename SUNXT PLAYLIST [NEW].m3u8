@@ -159,4 +159,8 @@ https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b
 #KODIPROP:inputstream.adaptive.license_key=d27bc072600d431faa7d0c8441a5fb43:3b61f64edc79497d9da31d612a88f8ea
 #EXTINF:-1 tvg-id="zee-cinema-sd" tvg-logo="https://i.ibb.co/vxXSzvsZ/Picsart-25-02-15-12-56-14-956.png" group-title="Dish TV", Zee Cinemalu SD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
-ok
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Dish TV", Zee Telugu HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
