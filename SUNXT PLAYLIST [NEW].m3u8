@@ -165,3 +165,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Dish TV", Zee Telugu HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+
+*****************************************************************************
+
+#EXTINF:-1 tvg-id="291" tvg-logo="https://i.ibb.co/RpQjHr0J/Picsart-25-02-27-21-10-21-447.png" group-title="TS-JioTV ETVWIN",ETV HD
+https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/0621bdcd-fdbb-450b-aac5-4fc476b65d12/3.m3u8
