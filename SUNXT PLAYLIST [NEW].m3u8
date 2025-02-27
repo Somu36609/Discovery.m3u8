@@ -1,0 +1,156 @@
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/pj0XvnD7/Picsart-25-02-10-07-06-23-693.png",HBOgroup-title="HBO GROUP", GEMINI TV HD [DOLBY AUDIO]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=880dc94460af4197bbbf43a176fb3a95:0beb7012ffd133360889d5d56e20de4d
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/KjcSRqB3/Picsart-25-02-10-07-16-27-252.png",HBOgroup-title="HBO GROUP", GEMINI MOVIES HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+https://livestream17.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/nqxnLsR3/Picsart-25-02-10-08-56-00-605.png",HBOgroup-title="HBO GROUP", GEMINI MUSIC HD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76230567f3c04513a7e5d1249ab65983:4ee6dc9a99d894dc41b0878d6ea22790
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/hxJvBqhy/Picsart-25-02-10-10-56-32-849.png",HBOgroup-title="HBO GROUP",SUN TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/wFFt6w9d/Picsart-25-02-10-11-57-25-150.png",HBOgroup-title="HBO GROUP",KTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/hxJvBqhy/Picsart-25-02-10-10-56-32-849.png",HBOgroup-title="HBO GROUP",SUN TV HD [DOLBY AUDIO]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://livestream2.sunnxt.com/9287b977a5694d3c98c12b79622da462/SunTVHDB_AU_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/VptfsjzB/Picsart-25-02-10-12-17-11-442.png",HBOgroup-title="HBO GROUP",SUN MUSIC HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/F4Jttj3S/Picsart-25-02-10-14-19-03-064.png",HBOgroup-title="HBO GROUP",SURYA TV HD [DOLBY AUDIO]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/DgfjRPnf/Picsart-25-02-10-14-22-46-534.png",HBOgroup-title="HBO GROUP",SURYA MOVIES [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/2r66SPh/Picsart-25-02-10-14-40-07-876.png",HBOgroup-title="HBO GROUP",SURYA MUSIC [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/PGHX1vG8/Picsart-25-02-10-14-39-27-368.png",HBOgroup-title="HBO GROUP",SURYA COMDEY [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/HLBHQHVj/Picsart-25-02-10-14-49-33-400.png",HBOgroup-title="HBO GROUP", GEMINI COMDEY [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e686ceac134f30b0a7bc3ce5a76b26:2c37e97fa0646751e1f2b85bc4b9ff8a
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/v66vDQQG/Picsart-25-02-10-14-48-57-867.png",HBOgroup-title="HBO GROUP", GEMINI LIFE [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96d5157791ea4817a66a419e285a137f:d6d0ad2a9a6cc56e18d7557c7c693a37
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/1J6Fb93v/Picsart-25-02-10-14-47-48-934.png",HBOgroup-title="HBO GROUP", SUN NEWS [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/sdj0vZGw/Picsart-25-02-10-14-48-24-906.png",HBOgroup-title="HBO GROUP", SUN LIFE [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/dwn4dJmw/Picsart-25-02-10-15-05-47-471.png",HBOgroup-title="HBO GROUP", ADITYA TV[HD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/tT4dQ9RN/Picsart-25-02-10-14-38-47-299.png",HBOgroup-title="HBO GROUP", UDAYA TV[HD] [DOLBY AUDIO]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b5f2d0205c4527b7aa3e41f35e1e7f:66ddb1a017753f966e20442ab2f91f18
+https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/LDbJHxFv/Picsart-25-02-10-14-59-45-334.png",HBOgroup-title="HBO GROUP", UDAYA MOVIES [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4dbffb517824732a955ca02dd6aacd9:83c2aa2946432f1ded7c049efe79feef
+https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/PZJN2Fwh/Picsart-25-02-10-14-50-26-442.png",HBOgroup-title="HBO GROUP", UDAYA COMDEY [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71329783aeb74e6e9e1014fb9e4c30f4:1e025a9ed7e50fa35b8de2c96cccdd6b
+https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/qL24rNLk/Picsart-25-02-10-14-51-53-960.png",HBOgroup-title="HBO GROUP", UDAYA MUSIC [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ac3472b0040459cab52035ead6fe1ae:ba9fe9dd1b8e5421e2f8c9d23bd86922
+https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/rRtdSJpc/Picsart-25-02-10-15-08-55-705.png",HBOgroup-title="HBO GROUP", SUN NEO [HD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/Z6LQBFfL/Picsart-25-02-10-15-10-05-929.png",HBOgroup-title="HBO GROUP", SUN BANGALA [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f7b9f7bf7e425f86d6dfd478390e3f:5fde68100a7856d055038236ffc7c84a
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/Z6rjjsC8/Picsart-25-02-10-15-07-28-185.png",HBOgroup-title="HBO GROUP", SUN MARATHI [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
+https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/DDqWqJp8/Picsart-25-02-10-15-11-54-003.png",HBOgroup-title="HBO GROUP", KOCHU TV [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/3ymNLJhd/Picsart-25-02-10-15-21-06-565.png",HBOgroup-title="HBO GROUP", CHUTTI TV [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/tM2rVmFw/Picsart-25-02-10-15-23-14-419.png",HBOgroup-title="HBO GROUP", CHINTU TV [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
+https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/sJNcx1W7/Picsart-25-02-10-10-29-17-287.png",HBOgroup-title="HBO GROUP", KUSHI TV [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e16421cf7c374c57a8f7e91049f58cd9:b7e01aba2c307b1f05057e91a9d150d2
+https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/KjcSRqB3/Picsart-25-02-10-07-16-27-252.png",HBOgroup-title="HBO GROUP", GEMINI MOVIES  [SD]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c37231880034787bce9fd3607aa09ea:e063bb30351dac572bac24ed43d304b2
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+
+
+××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/svkmfFTx/Picsart-25-02-10-22-16-56-370.png",HBOgroup-title="HBO GROUP", STAR MAA
+https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/f506413b-89bf-49a1-9777-4dfa8588c6ce/0.m3u8?hdntl=exp=1739293010~acl=%2f*~data=hdntl~hmac=8c55bc463963b73f1077803c44844537e140a9fc5e521c53cd24713575468f47
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/LXQzgHVK/Picsart-25-02-10-22-17-46-058.png",HBOgroup-title="HBO GROUP", STAR MAA MOVIES [HD]
+https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/c4aaccae-5a13-44ba-a139-ecb842a54cbb/0.m3u8?hdntl=exp=1739294120~acl=%2f*~data=hdntl~hmac=74d3be202b13f8fddecbd2351c8ebd6420810558db199dc92358b23e78410a51
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/Gvt0Yz32/Picsart-25-02-10-22-18-49-061.png",HBOgroup-title="HBO GROUP", STAR MAA MUSIC [SD]
+https://segmentsecmpkg.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaamusic_us_https/6ae30656-aa7a-4215-be54-36045bf0daec/0.m3u8?hdntl=exp=1739294507~acl=%2f*~data=hdntl~hmac=2e2de933283bbdf1a6eda240881eed1e179b861adb5a05be3d3288a7bbc0160e
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/kg1FfSh6/Picsart-25-02-10-22-59-21-763.png",HBOgroup-title="HBO GROUP", STAR MAA GOLD [SD]
+https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaagold_live_https/d3bf8114-0134-4cde-813a-027275442a53/0.m3u8?hdntl=exp=1739295042~acl=%2f*~data=hdntl~hmac=35658a3aa3ae4ae192e5e609bab19c8ddb0f805d73a6cfd2e710be806cedb6e9
