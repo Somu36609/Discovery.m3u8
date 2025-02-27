@@ -142,8 +142,9 @@ https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_
 ××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/svkmfFTx/Picsart-25-02-10-22-16-56-370.png",HBOgroup-title="HBO GROUP", STAR MAA [HD]
-https://delta12tatasky.akamaized.net/out/i/22.mpd?|drmScheme=clearkey&drmLicense=3NGYOppOQ--jIbWVlJUkOw:ZiTXr9wMGcCBpUwk7IfAuw
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3NGYOppOQ--jIbWVlJUkOw:ZiTXr9wMGcCBpUwk7IfAuw
+https://delta12tatasky.akamaized.net/out/i/22.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: HBO" tvg-logo="https://i.ibb.co/LXQzgHVK/Picsart-25-02-10-22-17-46-058.png",HBOgroup-title="HBO GROUP", STAR MAA MOVIES [HD]
 https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/c4aaccae-5a13-44ba-a139-ecb842a54cbb/0.m3u8?hdntl=exp=1739294120~acl=%2f*~data=hdntl~hmac=74d3be202b13f8fddecbd2351c8ebd6420810558db199dc92358b23e78410a51
